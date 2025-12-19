@@ -10,6 +10,7 @@
                 <p class="mt-4 text-base-content/60">
                     The place to share your thoughts in 280 characters or less.
                 </p>
+                <p class="mt-2 text-sm text-gray-600">Now this is live on the internet! 🚀</p>
             </div>
         </div>
     </div>
